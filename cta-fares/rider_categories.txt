@@ -1,0 +1,5 @@
+rider_category_id,rider_category_name,is_default_fare_category,eligibility_url
+full,Full fare,1,
+reduced,CTA reduced fare,0,https://www.transitchicago.com/reduced-fare-programs/
+rta_reduced,RTA reduced fare permit,0,"https://www.rtachicago.org/riders/free-and-reduced-fare-programs#:~:text=Reduced%20Fare-,permits,-RTA%20issues%20Reduced"
+student,Student,0,https://www.transitchicago.com/reduced-fare-programs/#students
