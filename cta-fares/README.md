@@ -4,6 +4,7 @@
 
 * Finish implementing CTA fare rules
 * Add transfers to Pace and Metra
+* Make script and CI to merge data with CTA data and publish to well-known location
 * Make script to maintain `route_networks.txt`
   * Manually list the 'L' lines and put everything into the bus network
 * Make script to maintain `areas.txt`
