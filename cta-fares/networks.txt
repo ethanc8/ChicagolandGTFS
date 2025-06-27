@@ -1,0 +1,4 @@
+network_id,network_name
+soldier_field,"128 Soldier Field Express"
+cta_bus,"CTA bus"
+cta_rail,"'L' trains"

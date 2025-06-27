@@ -1,0 +1,3 @@
+area_id,area_name
+cta,CTA service area
+ohare_l,O'Hare Blue Line station
