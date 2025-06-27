@@ -1,0 +1,41 @@
+fare_product_id,fare_product_name,amount,currency,fare_media_id,rider_category_id
+bus_fare,Bus fare,2.25,USD,cash,full
+bus_fare,Bus fare,2.25,USD,ventra_card,full
+bus_fare,Bus fare,2.25,USD,bankcard,full
+bus_fare,Bus fare,1.10,USD,cash,reduced
+bus_fare,Bus fare,1.10,USD,ventra_card,reduced
+bus_fare,Bus fare,1.10,USD,bankcard,reduced
+bus_fare,Bus fare,0.75,USD,cash,student
+bus_fare,Bus fare,0.75,USD,ventra_card,student
+bus_fare,Bus fare,0.75,USD,bankcard,student
+train_fare,'L' train fare,2.50,USD,cash,full
+train_fare,'L' train fare,2.50,USD,ventra_card,full
+train_fare,'L' train fare,2.50,USD,bankcard,full
+train_fare,'L' train fare,1.25,USD,cash,reduced
+train_fare,'L' train fare,1.25,USD,ventra_card,reduced
+train_fare,'L' train fare,1.25,USD,bankcard,reduced
+train_fare,'L' train fare,0.75,USD,cash,student
+train_fare,'L' train fare,0.75,USD,ventra_card,student
+train_fare,'L' train fare,0.75,USD,bankcard,student
+train_fare_ohare,'L' train fare from O'Hare,5.00,USD,cash,full
+train_fare_ohare,'L' train fare from O'Hare,5.00,USD,ventra_card,full
+train_fare_ohare,'L' train fare from O'Hare,5.00,USD,bankcard,full
+train_fare_ohare,'L' train fare from O'Hare,1.25,USD,cash,reduced
+train_fare_ohare,'L' train fare from O'Hare,1.25,USD,ventra_card,reduced
+train_fare_ohare,'L' train fare from O'Hare,1.25,USD,bankcard,reduced
+train_fare_ohare,'L' train fare from O'Hare,0.75,USD,cash,student
+train_fare_ohare,'L' train fare from O'Hare,0.75,USD,ventra_card,student
+train_fare_ohare,'L' train fare from O'Hare,0.75,USD,bankcard,student
+single_ride_ticket,Single-trip Ventra Ticket,3.00,USD,ventra_ticket,
+single_ride_ticket_ohare,Single-trip Ventra Ticket at O'Hare,5.00,USD,ventra_ticket,
+soldier_field,128 Soldier Field Express (round trip),5.00,USD,cash,
+soldier_field,128 Soldier Field Express (round trip),5.00,USD,ventra_card,
+soldier_field,128 Soldier Field Express (round trip),2.50,USD,cash,reduced
+soldier_field,128 Soldier Field Express (round trip),2.50,USD,ventra_card,reduced
+1_day_pass,1-Day CTA/Pace Pass,5.00,USD,ventra_card,
+1_day_ticket,1-Day Ventra Ticket,5.00,USD,ventra_ticket,
+3_day_pass,3-Day CTA/Pace Pass,15.00,USD,ventra_card,
+3_day_ticket,3-Day Ventra Ticket,15.00,USD,ventra_ticket,
+7_day_pass,7-Day CTA/Pace Pass,20.00,USD,ventra_card,
+30_day_pass,30-Day CTA/Pace Pass,75.00,USD,ventra_card,
+30_day_pass,30-Day CTA/Pace Pass,35.00,USD,ventra_card,rta_reduced
